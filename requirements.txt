@@ -1,5 +1,7 @@
-streamlit 
-numpy
+streamlit
 pandas
-datetime
-pyplot
+numpy
+matplotlib
+DateTime
+plotly
+openpyxl
